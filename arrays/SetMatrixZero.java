@@ -22,7 +22,7 @@ class Solution {
 }
 public class SetMatrixZero {
     public static void main(String[] args) {
-       Solution s=new Solution();
+       FindDuplicateNumber s=new FindDuplicateNumber();
        int matrix[][]={{1,0,1},{1,1,1},{1,2,1}};
        s.setZeroes(matrix);
 
